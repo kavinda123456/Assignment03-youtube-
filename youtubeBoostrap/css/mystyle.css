@@ -1,0 +1,44 @@
+#logo1{
+    margin: 12px;
+}
+body{
+    background-color: ghostwhite;
+}
+#search{
+    width: 50%;
+    left: 35%;
+    position: relative;
+    right: 50px;
+    bottom: 40px;
+}
+#logo2{
+    position: relative;
+    bottom: 78px;
+    left: 85%;
+    width: 7%;
+    height: 67%;
+
+}
+#navbar{
+    width: 17%;
+    height: 100%;
+    position: absolute;
+    background-color: lavender;
+}
+.click{
+    background-color: lavender;
+    position: relative;
+    width: 259px;
+    height: 50px;
+    margin: 0px;
+}
+.click:hover{
+    background-color: #c8cbcf;
+}
+#content{
+    width: 83%;
+    height: 100%;
+    background-color: ghostwhite;
+    position: absolute;
+    right: 0px;
+}
